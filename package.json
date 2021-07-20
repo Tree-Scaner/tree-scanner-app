@@ -12,7 +12,7 @@
     "@react-native-community/netinfo": "^5.3.3",
     "moment": "^2.24.0",
     "react": "16.8.3",
-    "react-native": "0.59.10",
+    "react-native": "0.62.3",
     "react-native-drawer": "^2.5.1",
     "react-native-firebase": "^5.6.0",
     "react-native-geolocation-service": "^4.0.0",
